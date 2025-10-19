@@ -91,6 +91,14 @@
   height: 25px;
   object-fit: contain;
 }
+.contact-item .span {
+  font-size: 12px;
+  word-wrap: break-word;
+  overflow-wrap: anywhere;
+  hyphens: auto;
+  max-width: 100%;
+  display: inline-block;
+}
 
 .span{
   font-size: 12px;
